@@ -21,4 +21,6 @@ let counter = setInterval(() => {
   if (count === 6) {
     count = 1;
   }
-}, 2000);
+}, 3000);
+
+counter;
